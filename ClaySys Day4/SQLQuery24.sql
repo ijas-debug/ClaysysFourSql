@@ -1,0 +1,1 @@
+ALTER TABLE Employee ALTER COLUMN Salary DECIMAL(12, 2);

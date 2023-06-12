@@ -1,0 +1,1 @@
+DELETE FROM Employee WHERE Id = 11;
